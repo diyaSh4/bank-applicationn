@@ -1,0 +1,269 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsMainScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsInputValidate.h(101,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsInputValidate.h(105,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsMainScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsUser.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsUtil.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsUtil.h(65,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsUser.h(140,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'ConsoleApplication1.cpp')
+      C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsUser.h(23,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\global.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsMainScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsClientListScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsBanckClient.h(27,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsBanckClient.h(297,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsBanckClient.h(305,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsClientListScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsMainScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsAddNewClientsScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsAddNewClientsScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsAddNewClientsScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsAddNewClientsScreen.h(32,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsMainScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsDeleteClientSecreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsDeleteClientSecreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsDeleteClientSecreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsMainScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsUpdateClientSecreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsUpdateClientSecreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsUpdateClientSecreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsUpdateClientSecreen.h(47,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsMainScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsFindClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsFindClientScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsFindClientScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsMainScreen.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsTransactionsScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsDepositSecreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsDepositSecreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsDepositSecreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsTransactionsScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsWithdrawScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsWithdrawScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsWithdrawScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsTransactionsScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsTransactionsScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsMainScreen.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsManageUsresScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsManageUsresScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsManageUsresScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsManageUsresScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsManageUsresScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsMainScreen.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsMainScreen.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsMainScreen.h(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrencyExchangeMainScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrencyExchangeMainScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrencyExchangeMainScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrenciesListScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrenciesListScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrenciesListScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrenciesListScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrenciesListScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrency.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrency.h(25,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrencyExchangeMainScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrencyFindScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrencyFindScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrencyExchangeMainScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsUpdateCurrencyRateScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsUpdateCurrencyRateScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsUpdateCurrencyRateScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsUpdateCurrencyRateScreen.h(16,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrencyExchangeMainScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrencyCalculatorScreen.h(15,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsLoginScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsLoginScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsLoginScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsLoginScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,48): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsBanckClient.h(242,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsBanckClient.h(308,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\light\source\repos\ConsoleApplication1\ConsoleApplication1\clsUser.h(258,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\light\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
